@@ -1,8 +1,15 @@
 # Design Manifesto 
 
-- In the case of graphic design, it should strive to be clear to the audience. It can use certain metaphors to enrich the design, however the function and point it serves, should always be clear. 
-- For every project, the design should be different. It depends on what the client wants. Even though I have my own style, when it comes to a design manifesto which contains points about how something should look, I have no specific guidelines. I always go into each project with a clean slate. 
-- The design of something depends on the function it serves. If it does not fulfill its function and the everyday viewer does not understand it, it is not a good design. 
-- The design of something should be timeless, innovative, eyecatching and functional.
-- Design can be a group effort, as well as individual. When working on a project with multiple people, it can bring so many different ideas and views, which can result in a dynamic design. This however, is also possible when working individually.
-- Communication is key - specifically communication with the client. It is important to truly listen to their wants and needs when it comes to design. However, it is also important to keep your own boundaries as a designer, as you have the experience with what is visually appealing. You have to work with their assignments and your personal style. Why would they want to employ you, if they do not like your work?
+- In graphic design, clarity for the audience should always be a primary objective. While the use of metaphors and creative elements can enhance a design, it is crucial that the core message remains clear and aligns with its intended function.
+
+- Each project presents a unique opportunity, and designs should be tailored to meet the specific needs and preferences of clients. Approaching every assignment with a blank slate allows for fresh creativity, ensuring that the final product resonates with the client's vision.
+  
+- Functionality is paramount; a design must effectively fulfill its purpose. If it fails to engage the audience or communicate its message, it cannot be considered successful.
+
+- Great design should be a balance of timelessness, innovation, and visual appeal. Striving for this balance helps create memorable and relevant work that endures over time.
+
+- Collaboration can be equally rewarding, whether working in a team or independently. Collaborating brings diverse perspectives that can enhance creativity, while individual projects allow for personal expression and a unique vision.
+
+- Effective communication with clients is vital. Listening to their wants and needs while maintaining your boundaries as a designer is essential. This dynamic ensures that the designer’s expertise shapes the design while honoring the client’s vision.
+  
+- Finally, every designer has a unique style that should be integrated into their work. Clients often choose designers based off of their distinct aesthetic, so aligning personal style with client expectations is key to a successful partnership.
