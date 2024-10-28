@@ -5,4 +5,5 @@ Inspiration:
   - https://www.ariesmoross.com/About
   - https://www.lottanieminen.com/about
 
+Bio:
   - 
