@@ -19,7 +19,7 @@ About me:
 
                 
 
-# ELIŠKA FANTOVÁ | 
+# Eliška Fantová | 
 
 
 Hello, my name is Eliška Fantová and I am a passionate junior graphic designer focussing on book design, illustrations, and visual identities. 
