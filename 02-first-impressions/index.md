@@ -17,5 +17,5 @@ About me:
     As I continue to sharpen my craft, I’m excited about exploring new challenges and collaborating with those who share my passion for design, which evokes emotions. Do not hesitate to    contact me!
 
 
-03-about-me
+
 
