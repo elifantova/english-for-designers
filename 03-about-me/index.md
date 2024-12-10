@@ -1,4 +1,4 @@
-## ELIŠKA FANTOVÁ ABOUT ME
+## ELIŠKA FANTOVÁ | ABOUT ME
 
 Hello, my name is Eliška Fantová and I am a passionate junior graphic designer focussing on book design, illustrations, and visual identities. My work prioritises both aesthetics and functionality, aiming to craft designs that effectively communicate the intended message.
 
