@@ -13,3 +13,6 @@ Bio #2:
   - I’m Eliška Fantová, a passionate junior graphic designer focusing on book design, illustrations, and visual identities. My creative journey is driven by a love for captivating visuals and impactful design, which can truly speak to its audience. I thrive on creating clean yet vibrant designs, which emphasise clarity and leave a lasting impression. I believe that great design should not only be visually stunning, however also serve a functional purpose. My work prioritises both aesthetics and functionality, aiming to craft designs that effectively communicate the intended message.
     Whether I’m illustrating a children’s book or developing a unique visual identity for a brand, my goal is to breathe life into ideas through thoughtful and engaging design. I’m committed to creating visuals, which resonate and inspire, making every project a new opportunity to connect with others through creativity.
     As I continue to sharpen my craft, I’m excited about exploring new challenges and collaborating with those who share my passion for design, which evokes emotions. Do not hesitate to    contact me!
+
+
+[Eliška Fantová.pdf](https://github.com/user-attachments/files/18076272/Eliska.Fantova.pdf)
