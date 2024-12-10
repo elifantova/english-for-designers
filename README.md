@@ -1,3 +1,6 @@
 # English for Designers
 
 - [Design Manifesto](01-design-manifesto) 
+- [First Impressions](02-first-impressions)
+- [About Me](03-about-me)
+  
