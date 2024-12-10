@@ -19,7 +19,7 @@ About me:
 
                 
 
-# Eliška Fantová | 
+# Eliška Fantová | https://github.com/elifantova/english-for-designers/blob/586b4d6b31279e8215cba8f6b8e28d6b2a259bf2/03-about-me/index.md
 
 
 Hello, my name is Eliška Fantová and I am a passionate junior graphic designer focussing on book design, illustrations, and visual identities. 
