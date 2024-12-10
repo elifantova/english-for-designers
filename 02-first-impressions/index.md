@@ -17,56 +17,5 @@ About me:
     As I continue to sharpen my craft, I’m excited about exploring new challenges and collaborating with those who share my passion for design, which evokes emotions. Do not hesitate to    contact me!
 
 
-
-# ELIŠKA FANTOVÁ | ABOUT ME
-
-Hello, my name is Eliška Fantová and I am a passionate junior graphic designer focussing on book design, illustrations, and visual identities. 
-My work prioritises both aesthetics and functionality, aiming to craft designs that effectively communicate the intended message.
-   
-# Featured projects:
-
-## 1. Czech Tennis
-2024 | Visual identity | Class project 
-
-![mockup2_optimized (1)](https://github.com/user-attachments/assets/b8ace88e-0046-4100-a5fd-d65465d3d123)
-
-
-As part of a university workshop, we were given the task of creating a sports campaign for Czech Tennis. In our visual communication, we work with a "brush" that resembles the texture of the clay, which is typically used on tennis courts.
-
-
-
-## 2. FamuFest 40 + FamuFest 41
-2023/2024 | Visual identity 
-
-
-![att awtKFSpOH3pbTWz5Kgyb9cDELq3te7f0kqW4D3K5Nb8](https://github.com/user-attachments/assets/689b0180-db32-4602-9e18-f0631f89cf51)
-
-<img width="1243" alt="Screenshot 2024-12-10 at 18 58 09" src="https://github.com/user-attachments/assets/7da9a845-a26e-4780-b29e-5fa084dd3df4">
-
-
-Two proposals for the visual identity of a student film festival in Prague, created and organised by FAMU. FamuFest 40: Networks, FamuFest 41: Happy End. Our proposal for FamuFest 41 got into the second round of the admission process.
-
-
-
-## 3. Café and Klub Letka
-2024 | Visual identity | Class project
-
-<img width="823" alt="Screenshot 2024-12-10 at 19 00 31" src="https://github.com/user-attachments/assets/cbeaddd6-7592-458f-9132-b18912b2e8d6">
-
-
-<img width="938" alt="Screenshot 2024-12-10 at 19 00 55" src="https://github.com/user-attachments/assets/4f0bcb6f-bc46-4611-8797-57ac361b52b1">
-
-
-<img width="675" alt="Screenshot 2024-12-10 at 19 01 19" src="https://github.com/user-attachments/assets/7b6d6371-2468-4252-af31-545845a2b1e9"> 
-
-
-![klubletkaplakatmockup-1](https://github.com/user-attachments/assets/d9386a4e-c1a9-4a8a-9453-fb4f0154ed20)
-
-
-The proposals for the redesign of a café and club located in Prague. Our team worked with the concept, which was inspired by the café's original logo, and consisted of streams of typography immitating the condensation trails left behind by planes. 
-
-
-
-
-
+03-about-me
 
