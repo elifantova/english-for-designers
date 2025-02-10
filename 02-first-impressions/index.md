@@ -23,17 +23,17 @@ About me:
 
 
 Hello, my name is Eliška Fantová and I am a passionate junior graphic designer focussing on book design, illustrations, and visual identities. 
-My work prioritises both aesthetics and functionality, aiming to craft designs that effectively communicate the intended message.
+My work prioritises both aesthetics and functionality, aiming to craft designs that effectively communicate the intended message. 
    
 # Featured projects:
 
 ## 1. Czech Tennis
-2024 | Visual identity | Class project 
+2024 | Visual identity | Class workshop 
 
 ![mockup2_optimized (1)](https://github.com/user-attachments/assets/b8ace88e-0046-4100-a5fd-d65465d3d123)
 
 
-As part of a university workshop, we were given the task of creating a sports campaign for Czech Tennis. In our visual communication, we work with a "brush" that resembles the texture of the clay, which is typically used on tennis courts.
+As part of an atelier workshop, where we were given the task of creating a sports campaign for Czech Tennis. In our visual communication, we work with a "brush", which resembles the texture of the tennis court floors, since it is characteristic of the sport. Furthermore, we chose to use a typographical logo with a green dot above the i to imitate the look of a tennis ball. 
 
 
 
@@ -46,8 +46,7 @@ As part of a university workshop, we were given the task of creating a sports ca
 <img width="1243" alt="Screenshot 2024-12-10 at 18 58 09" src="https://github.com/user-attachments/assets/7da9a845-a26e-4780-b29e-5fa084dd3df4">
 
 
-Two proposals for the visual identity of a student film festival in Prague, created and organised by FAMU. FamuFest 40: Networks, FamuFest 41: Happy End. Our proposal for FamuFest 41 got into the second round of the admission process.
-
+Two proposals for the visual identity of a student film festival in Prague, created and organised by FAMU. Themes: FamuFest 40 - Networks (we chose to focus our visual identity on neurons, to compliment the theme), FamuFest 41 - Happy End (we worked with video cassets and mainly emphasised the theme with captions, which objectively display a classic happy ending in movies). Our proposal for FamuFest 41 got into the second round of the admission process.
 
 
 ## 3. Café and Klub Letka
