@@ -33,7 +33,7 @@ My work prioritises both aesthetics and functionality, aiming to craft designs t
 ![mockup2_optimized (1)](https://github.com/user-attachments/assets/b8ace88e-0046-4100-a5fd-d65465d3d123)
 
 
-As part of an atelier workshop, where we were given the task of creating a sports campaign for Czech Tennis. In our visual communication, we work with a "brush", which resembles the texture of the tennis court floors, since it is characteristic of the sport. Furthermore, we chose to use a typographical logo with a green dot above the i to imitate the look of a tennis ball. 
+As part of an atelier workshop, where we were given the task of creating a sports campaign for Czech Tennis. In our visual communication, we work with a "brush", which resembles the texture of the tennis court floors, since it is specifically characteristic of the sport in the Czech Republic. Furthermore, we chose to use a typographical logo with a green dot above the i to imitate the look of a tennis ball. 
 
 
 
