@@ -37,7 +37,7 @@ As part of an atelier workshop, where we were given the task of creating a sport
 
 
 
-## 2. FamuFest 40 + FamuFest 41
+## 2. [FamuFest 40] (02-famufest-40/index.md) + [FamuFest 41](02-famufest-41/index.md)
 2023/2024 | Visual identity 
 
 
