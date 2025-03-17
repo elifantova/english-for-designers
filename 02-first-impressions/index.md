@@ -27,7 +27,7 @@ My work prioritises both aesthetics and functionality, aiming to craft designs t
    
 # Featured projects:
 
-## 1. [Czech Tennis](02-first-impressions/02-czech-tennis/index.md)
+## 1. [Czech Tennis](02-czech-tennis/index.md)
 2024 | Visual identity | Class workshop 
 
 ![mockup2_optimized (1)](https://github.com/user-attachments/assets/b8ace88e-0046-4100-a5fd-d65465d3d123)
@@ -49,7 +49,7 @@ As part of an atelier workshop, where we were given the task of creating a sport
 Two proposals for the visual identity of a student film festival in Prague, created and organised by FAMU. Themes: FamuFest 40 - Networks (we chose to focus our visual identity on neurons, to compliment the theme), FamuFest 41 - Happy End (we worked with video cassets and mainly emphasised the theme with captions, which objectively display a classic happy ending in movies). Our proposal for FamuFest 41 got into the second round of the admission process.
 
 
-## 3. [Café and Klub Letka](02-first-impressions/02-cafe-klub-letka/index.md)
+## 3. [Café and Klub Letka](02-cafe-klub-letka/index.md)
 2024 | Visual identity | Class project
 
 <img width="823" alt="Screenshot 2024-12-10 at 19 00 31" src="https://github.com/user-attachments/assets/cbeaddd6-7592-458f-9132-b18912b2e8d6">
