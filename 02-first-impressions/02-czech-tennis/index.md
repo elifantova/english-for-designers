@@ -1,1 +1,7 @@
 # Revitalizing Czech Tennis
+
+In an attempt to refresh and expand our idea of graphic design, we were presented with the thrilling challenge of designing a captivating sports campaign for Czech Tennis. Our goal was to create a robust visual identity, which reflects the culture, and passion surrounding tennis in the Czech Republic, while also appealing to a modern audience and giving it a fresh new look.
+
+At the core of our visual communication strategy is the use of a 'brush' motif, which artistically captures the unique texture of tennis court surfaces found specifically in the Czech Republic. This brush work not only embodies the movement the ball makes as it repels from the racket but its colours also imitate that of the tennis court surfaces and the ball itself. By intertwining this tactile element into our graphics, we aimed to evoke a sense of excitement and energy, creating a visual link which resonates with both casual spectators and passionate tennis enthusiasts.
+
+Moreover, our typographical logo features a vividly coloured green dot positioned above the 'i', mirroring the unmistakable look of a tennis ball. This design choice was made purely out of the intention to keep the rest of the components of this design clean in order to play along with the brush strokes rather than collide and compete with them. Furthermore, this decision was also made due to its explicitness and clarity - it is yet even more obvious that this brand has something to do with tennis. It is playful, yet serious mainly due to its typographical nature.
