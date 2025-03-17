@@ -1,4 +1,4 @@
-# Redefining Club and Café Letka
+# Redefining Café and Club Letka
 
 The proposals for the redesign of a café and club located in Prague represent a creative and thoughtful approach to blending modern design with the venue's unique identity. Our team was tasked with developing a concept that not only reimagined the physical space but also honored the café's original logo. Drawing inspiration from this logo, we decided to explore a visual theme that reflected movement, energy, and an air of sophistication. The concept evolved around streams of typography that mimicked the condensation trails left behind by airplanes soaring through the sky. This metaphor for fluidity and travel was infused throughout the design, aiming to evoke feelings of adventure, exploration, and connection.
 
