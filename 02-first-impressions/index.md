@@ -27,7 +27,7 @@ My work prioritises both aesthetics and functionality, aiming to craft designs t
    
 # Featured projects:
 
-## 1. Czech Tennis
+## 1. [Czech Tennis](02-first-impressions/02-czech-tennis)
 2024 | Visual identity | Class workshop 
 
 ![mockup2_optimized (1)](https://github.com/user-attachments/assets/b8ace88e-0046-4100-a5fd-d65465d3d123)
