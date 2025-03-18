@@ -1,5 +1,4 @@
 # Revitalizing Czech Tennis
----
 2024 | Visual identity | Class workshop
 ---
 
