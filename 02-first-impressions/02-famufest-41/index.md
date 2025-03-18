@@ -5,4 +5,20 @@ To visually express this concept, our team chose to incorporate film cassettes a
 
 This nostalgic medium takes us back to a time when stories were linear and information came at a rate we determined ourselves. Videotapes transport us to an era when time passed differently and when all news, movies or information were not always within reach. It was a time when we cherished the individual moments that the media brought us and when stories managed to stay in our memory longer and deeper. Therefore, the selection of videotapes perfectly underlines this year's concept of Famufest, which is a reference to the simplicity that we have lost over time. This festival is not only a celebration of film, but also a return to our own inner self - to a time when we could perceive the end of a story as a happy conclusion, not just another closed chapter.
 
+---
 
+How our team approached this design? 
+
+---
+
+Key aspects of our design: 
+
+---
+
+Before and after
+
+---
+
+Visuals
+
+---
