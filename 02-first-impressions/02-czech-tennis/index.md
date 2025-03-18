@@ -1,7 +1,6 @@
 # Revitalizing Czech Tennis
 ---
-
-
+2024 | Visual identity | Class workshop
 ---
 
 In an attempt to refresh and expand our idea of graphic design, we were presented with the thrilling challenge of designing a captivating sports campaign for Czech Tennis. Our goal was to capture the passion of the sport while appealing to a modern audience. Our design centers around a 'brush' motif inspired by the unique texture of Czech tennis courts, reflecting the ball’s movement and the court's colors.
