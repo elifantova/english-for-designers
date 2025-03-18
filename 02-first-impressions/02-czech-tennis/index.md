@@ -9,6 +9,7 @@ The playful yet clean typographic logo features a green dot above the ‘i’, e
 ---
 
 <img width="639" alt="Screenshot 2025-03-18 at 11 31 33" src="https://github.com/user-attachments/assets/85cf9369-9ffd-498c-a2c1-f280e69def78" />
+
 Our typographic logo, showcasing the green dot above the ‘i’ symbolising a tennis ball.
 
 ---
