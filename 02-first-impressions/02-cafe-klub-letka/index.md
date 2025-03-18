@@ -4,5 +4,21 @@ Our redesign of Café and Club Letka in Prague blends modern design with the ven
 
 This flowing typography is seen throughout the space, from signage to merchandise, giving the café and club a sense of continuous motion. To set the café and club apart, we used more rigid contrails and different elements in the club’s logo, creating distinct but connected identities for each space.
 
+---
 
+How our team approached this design? 
+
+---
+
+Key aspects of our design: 
+
+---
+
+Before and after
+
+---
+
+Visuals
+
+---
 
