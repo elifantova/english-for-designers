@@ -1,4 +1,5 @@
 ### Redefining Café and Club Letka
+2024 | Visual identity | Class workshop
 
 Our redesign of Café and Club Letka in Prague blends modern design with the venue’s unique identity. We were inspired by the café’s original logo and its flying theme, creating a visual concept that reflects movement and energy. The design features typography that mimics airplane contrails, symbolising fluidity, adventure, and connection.
 
