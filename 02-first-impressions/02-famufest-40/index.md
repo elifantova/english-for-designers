@@ -1,4 +1,5 @@
-# Shaping a bold new look for FAMUFEST 40 
+### Shaping a bold new look for FAMUFEST 40 
+2024 | Visual identity | Class workshop
 
 For FAMUFEST's 40th anniversary, our team created a visual identity, which celebrated the festival’s milestone and its impact on cinema. The theme "Networks" highlighted the interconnectedness of ideas, people, and creative exchange in filmmaking.
 
