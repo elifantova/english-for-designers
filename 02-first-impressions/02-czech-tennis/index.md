@@ -10,13 +10,13 @@ The playful yet clean typographic logo features a green dot above the ‘i’, e
 
 ---
 
-How our team approached this design? 
+#### How our team approached this design? 
 
 As a team with a completely new challenge we have not embarked on before, we thought that our thought and work process would be very different to how we worked before. However, we tackled this project as we would any visual identity, adapting it with a modern, playful, and energetic colour palette and feel — qualities we felt were perfect for a sports campaign. Initially, we focused solely on using brush strokes in combination with headings, however in the end, we decided to combine these illustrations with typographic tennis terminology. This was presented either as bold headings, resembling a shout, or integrated into a scoring board backdrop, adding dynamic layers to the design.
 
 ---
 
-Key aspects of our design: 
+#### Key aspects of our design: 
 
 - brush strokes
 - bold typographic tennis terminology resembling a shout
@@ -25,7 +25,7 @@ Key aspects of our design:
 
 ---
 
-Visuals
+### Visuals
 
 ---
 
