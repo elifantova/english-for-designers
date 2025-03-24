@@ -7,7 +7,7 @@ This flowing typography is seen throughout the space, from signage to merchandis
 
 ---
 
-How our team approached this design? 
+#### How our team approached this design? 
 
 Designing a visual identity for a café in combination with a club was also a new challenge, however it was much closer to what we have done before. Our design team approached the Café and Club Letka redesign by blending modern design with the venue’s unique flying theme, as well as its interior design. Inspired by the original logo, we used typography resembling airplane contrails to symbolise movement and energy. This flowing design appears throughout the space, from signage to merchandise.
 
@@ -15,7 +15,7 @@ To create distinct identities for each space, we applied more rigid contrails in
 
 ---
 
-Key aspects of our design: 
+#### Key aspects of our design: 
 
 - typographic contrails
 - neutral/pastel colour palette for the café
@@ -25,7 +25,7 @@ Key aspects of our design:
 
 ---
 
-Visuals
+### Visuals
 
 ---
 
