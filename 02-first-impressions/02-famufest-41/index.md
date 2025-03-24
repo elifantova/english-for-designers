@@ -9,9 +9,16 @@ Film cassettes evoke nostalgia for a time when stories were linear, and media wa
 
 #### How our team approached this design? 
 
+Our main objective was to represent nostalgia and a linear form of time, which is mainly present in films. This choice led us to focus on the simplicity and warmth of past media experiences, capturing the slower, more deliberate pace of filmmaking. By incorporating film cassettes, we aimed to connect the festival’s theme to a return to a simpler, more nostalgic time, where endings were celebrated as happy conclusions rather than just the closing of chapters.
+
 ---
 
 #### Key aspects of our design: 
+
+- Photography
+- Film cassettes
+- Hand-written typography
+- Static television effect
 
 ---
 
