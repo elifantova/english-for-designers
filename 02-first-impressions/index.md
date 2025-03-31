@@ -54,10 +54,6 @@ Two proposals for the visual identity of a student film festival in Prague, crea
 
 <img width="823" alt="Screenshot 2024-12-10 at 19 00 31" src="https://github.com/user-attachments/assets/cbeaddd6-7592-458f-9132-b18912b2e8d6">
 
-
-<img width="938" alt="Screenshot 2024-12-10 at 19 00 55" src="https://github.com/user-attachments/assets/4f0bcb6f-bc46-4611-8797-57ac361b52b1">
-
-
 <img width="675" alt="Screenshot 2024-12-10 at 19 01 19" src="https://github.com/user-attachments/assets/7b6d6371-2468-4252-af31-545845a2b1e9"> 
 
 
