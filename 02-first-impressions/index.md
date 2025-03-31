@@ -43,8 +43,6 @@ As part of an atelier workshop, where we were given the task of creating a sport
 
 ![att awtKFSpOH3pbTWz5Kgyb9cDELq3te7f0kqW4D3K5Nb8](https://github.com/user-attachments/assets/689b0180-db32-4602-9e18-f0631f89cf51)
 
-<img width="1243" alt="Screenshot 2024-12-10 at 18 58 09" src="https://github.com/user-attachments/assets/7da9a845-a26e-4780-b29e-5fa084dd3df4">
-
 
 Two proposals for the visual identity of a student film festival in Prague, created and organised by FAMU. Themes: FamuFest 40 - Networks (we chose to focus our visual identity on neurons, to compliment the theme), FamuFest 41 - Happy End (we worked with video cassets and mainly emphasised the theme with captions, which objectively display a classic happy ending in movies). Our proposal for FamuFest 41 got into the second round of the admission process.
 
