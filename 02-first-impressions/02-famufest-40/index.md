@@ -25,4 +25,9 @@ Since this festival had a set theme - "Networks" - our team decided to concentra
 
 ### Visuals
 
+<img width="871" alt="Screenshot 2025-03-31 at 21 20 31" src="https://github.com/user-attachments/assets/165f9693-26f9-466b-a79a-cc9774a4a657" />
+
+<img width="989" alt="Screenshot 2025-03-31 at 21 20 44" src="https://github.com/user-attachments/assets/119ac4d5-7397-4a10-b14a-c6d0a990288e" />
+
+
 ---
