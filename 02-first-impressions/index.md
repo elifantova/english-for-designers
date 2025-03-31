@@ -57,7 +57,4 @@ Two proposals for the visual identity of a student film festival in Prague, crea
 <img width="675" alt="Screenshot 2024-12-10 at 19 01 19" src="https://github.com/user-attachments/assets/7b6d6371-2468-4252-af31-545845a2b1e9"> 
 
 
-![klubletkaplakatmockup-1](https://github.com/user-attachments/assets/d9386a4e-c1a9-4a8a-9453-fb4f0154ed20)
-
-
 The proposals for the redesign of a café and club located in Prague. Our team worked with the concept, which was inspired by the café's original logo, and consisted of streams of typography immitating the condensation trails left behind by planes. 
