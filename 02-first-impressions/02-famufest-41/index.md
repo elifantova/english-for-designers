@@ -17,7 +17,7 @@ Our main objective was to represent nostalgia and a linear form of time, which i
 
 - Photography
 - Film cassettes
-- Hand-written typography
+- Handwritten typography
 - Static television effect
 
 ---
