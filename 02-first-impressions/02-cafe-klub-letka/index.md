@@ -26,6 +26,13 @@ To create distinct identities for each space, we applied more rigid contrails in
 ---
 
 ### Visuals
+<img width="822" alt="Screenshot 2025-03-31 at 21 03 19" src="https://github.com/user-attachments/assets/34683215-450b-4335-a91e-3535dec45993" />
+
+<img width="1141" alt="Screenshot 2025-03-31 at 21 00 43" src="https://github.com/user-attachments/assets/2306ded1-7ffd-4ed3-a8bf-fe966fa2928a" />
+
+<img width="820" alt="Screenshot 2025-03-31 at 21 02 57" src="https://github.com/user-attachments/assets/bd9e0f31-ee26-4680-bb5f-096166af8c17" />
+
+<img width="820" alt="Screenshot 2025-03-31 at 21 02 45" src="https://github.com/user-attachments/assets/405bbca7-3418-423b-8ff4-d5ccd0ae4e54" />
 
 ---
 
