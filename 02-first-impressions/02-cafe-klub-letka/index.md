@@ -27,6 +27,7 @@ To create distinct identities for each space, we applied more rigid contrails in
 
 ### Visuals
 <img width="822" alt="Screenshot 2025-03-31 at 21 03 19" src="https://github.com/user-attachments/assets/34683215-450b-4335-a91e-3535dec45993" />
+The application of the new logo above the entrance of the café
 
 <img width="1141" alt="Screenshot 2025-03-31 at 21 00 43" src="https://github.com/user-attachments/assets/2306ded1-7ffd-4ed3-a8bf-fe966fa2928a" />
 
