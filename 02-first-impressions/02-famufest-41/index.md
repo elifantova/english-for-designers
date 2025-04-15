@@ -37,4 +37,6 @@ A showcase of the FAMUFEST41 instagram
 <img width="826" alt="Screenshot 2025-03-31 at 21 18 10" src="https://github.com/user-attachments/assets/86e0927a-efa2-47b7-b5e2-beb0f69cef83" />
 
 
+A showcase of the FAMUFEST41 webpage
+
 ---
