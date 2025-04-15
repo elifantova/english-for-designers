@@ -26,7 +26,13 @@ Our main objective was to represent nostalgia and a linear form of time, which i
 
 ![billboard2-komprimovaný_1-1](https://github.com/user-attachments/assets/8672e5f6-8c6d-4d0b-8ccd-c87a1704028b)
 
+
+The application of our poster on a billboard
+
 <img width="667" alt="Screenshot 2024-11-20 at 16 02 55" src="https://github.com/user-attachments/assets/42cd808b-1e18-4e9d-a56b-d579e4bf179b" />
+
+
+A showcase of the FAMUFEST41 instagram 
 
 <img width="826" alt="Screenshot 2025-03-31 at 21 18 10" src="https://github.com/user-attachments/assets/86e0927a-efa2-47b7-b5e2-beb0f69cef83" />
 
