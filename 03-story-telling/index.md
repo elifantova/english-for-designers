@@ -1,6 +1,6 @@
 ## Showing up anyway  
 
-This story is not about a perfect design, or a big success, but about what happens when things don’t quite go your way.
+This is not about a perfect design, or a big success, but about what happens when things don’t quite go your way.
 
 ## It starts with a concept.
 
