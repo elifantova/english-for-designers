@@ -36,7 +36,9 @@ As a team with a completely new challenge we have not embarked on before, we tho
 ### After
 
 
-<img width="639" alt="Screenshot 2025-03-18 at 11 31 33" src="https://github.com/user-attachments/assets/85cf9369-9ffd-498c-a2c1-f280e69def78" />
+![tenis-1](https://github.com/user-attachments/assets/a2dca6d2-403d-4e0c-8060-4b525c71bc49)
+
+
 
 Our typographic logo, showcasing the green dot above the ‘i’ symbolising a tennis ball.
 
