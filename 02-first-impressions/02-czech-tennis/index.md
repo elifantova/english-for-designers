@@ -8,13 +8,13 @@ In an attempt to refresh and expand our idea of graphic design, we were presente
 
 The playful yet clean typographic logo features a green dot above the ‘i’, echoing the look of a tennis ball. This simple touch keeps the design focused and clear while complementing the dynamic brush strokes, making it instantly recognizable and full of energy for both casual fans and tennis enthusiasts.
 
----
+
 
 #### How our team approached this design? 
 
 As a team with a completely new challenge we have not embarked on before, we thought that our thought and work process would be very different to how we worked before. However, we tackled this project as we would any visual identity, adapting it with a modern, playful, and energetic colour palette and feel — qualities we felt were perfect for a sports campaign. Initially, we focused solely on using brush strokes in combination with headings, however in the end, we decided to combine these illustrations with typographic tennis terminology. This was presented either as bold headings, resembling a shout, or integrated into a scoring board backdrop, adding dynamic layers to the design.
 
----
+
 
 #### Key aspects of our design: 
 
@@ -27,7 +27,14 @@ As a team with a completely new challenge we have not embarked on before, we tho
 
 ### Visuals
 
----
+### Before
+
+
+![image](https://github.com/user-attachments/assets/d21ab1f0-4425-4089-a32b-6112d9b51d83)
+
+
+### After
+
 
 <img width="639" alt="Screenshot 2025-03-18 at 11 31 33" src="https://github.com/user-attachments/assets/85cf9369-9ffd-498c-a2c1-f280e69def78" />
 
