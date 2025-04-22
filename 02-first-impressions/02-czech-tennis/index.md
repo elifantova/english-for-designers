@@ -39,15 +39,18 @@ As a team with a completely new challenge we have not embarked on before, we tho
 ![tenis-1](https://github.com/user-attachments/assets/a2dca6d2-403d-4e0c-8060-4b525c71bc49)
 
 
-
 Our typographic logo, showcasing the green dot above the ‘i’ symbolising a tennis ball.
 
 ---
 
-![Citylight on a Bus Stop PSD Mockup copy_11zon](https://github.com/user-attachments/assets/b737d1e3-1781-4fe8-923b-fb26ff4839bc)
-One of many posters - this one is specifically on a negative background. 
+
+![tenis_11zon](https://github.com/user-attachments/assets/a7567e5b-b4c4-4431-9a77-62c50df6969c)
+
+
+Three versions of posters – czech tennis terminology, scoreboards; negative and positive backgrounds.
 
 ---
 
 ![Free Bag Mockup_11zon](https://github.com/user-attachments/assets/e4cac727-9155-4d45-994a-0d0f8cd14f6f)
+
 A part of our merchandise, we decided to design merch, which had connotations to sports - thus the duffle bag. 
