@@ -49,8 +49,25 @@ Our typographic logo, showcasing the green dot above the ‘i’ symbolising a t
 
 Three versions of posters – czech tennis terminology, scoreboards; negative and positive backgrounds.
 
+
+![visuals_11zon](https://github.com/user-attachments/assets/aa33ec56-bd90-44ac-8f2d-ee3cdceb3732)
+
 ---
 
-![Free Bag Mockup_11zon](https://github.com/user-attachments/assets/e4cac727-9155-4d45-994a-0d0f8cd14f6f)
+![ren_11zon](https://github.com/user-attachments/assets/55d158d5-7d3b-478e-a41f-3f8a632b553e)
+
+
+A selection of banners.
+
+---
+
+<img width="1433" alt="Screenshot 2025-04-22 at 10 29 23" src="https://github.com/user-attachments/assets/a02d7f26-8693-4242-a05a-d8aaa6dafee0" />
+
+Our Instagram. 
+
+---
+
+<img width="1433" alt="Screenshot 2025-04-22 at 10 28 40" src="https://github.com/user-attachments/assets/9bd3ebed-68d4-4cea-bab3-45779004a047" />
+
 
 A part of our merchandise, we decided to design merch, which had connotations to sports - thus the duffle bag. 
