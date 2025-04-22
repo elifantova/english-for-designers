@@ -48,7 +48,7 @@ Our typographic logo, showcasing the green dot above the ‘i’ symbolising a t
 ![tenis_11zon](https://github.com/user-attachments/assets/a7567e5b-b4c4-4431-9a77-62c50df6969c)
 
 
-Three versions of posters – czech tennis terminology, scoreboards; negative and positive backgrounds.
+Five versions of posters – czech tennis terminology, scoreboards; negative and positive backgrounds.
 
 
 ![visuals_11zon](https://github.com/user-attachments/assets/aa33ec56-bd90-44ac-8f2d-ee3cdceb3732)
