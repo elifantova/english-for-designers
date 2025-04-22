@@ -47,19 +47,19 @@ It’s about trust. It’s about being dependable.
 --- 
 
 ## Principles of this story: 
-# - Integrity over ego
+### - Integrity over ego
 I stepped in to help, even after being rejected — not out of pride, but out of professionalism, care for the project and care for the people organising it. Design is about solving problems, not just self-expression.
 
-# - Reliability builds trust
+### - Reliability builds trust
 I didn’t just do what I was originally asked to — I went beyond the brief, due to the absence of certain people. The most dependable designers are the ones people come back to.
 
-# - Flexibility is a superpower
+### - Flexibility is a superpower
 Even though the visual style wasn’t my own, I adapted to it and worked with what was at hand. Adaptability is key in design — not every project will reflect your personal style, but every project is an opportunity to contribute meaningfully.
   
-# - Growth through adversity
+### - Growth through adversity
 I took a situation that could’ve felt bitter or demotivating and turned it into a learning experience. Even though it was not my dream job due to the visual style, I still enjoyed it very much. 
 
-# - Design is about people
+### - Design is about people
 This isn’t just a story about graphics. It’s about people — my friend who reached out, the organisers who needed help, the audience who experienced the festival. At its core, design serves people. 
 
 --- 
