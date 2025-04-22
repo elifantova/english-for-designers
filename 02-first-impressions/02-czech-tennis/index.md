@@ -8,7 +8,7 @@ In an attempt to refresh and expand our idea of graphic design, we were presente
 
 The playful yet clean typographic logo features a green dot above the ‘i’, echoing the look of a tennis ball. This simple touch keeps the design focused and clear while complementing the dynamic brush strokes, making it instantly recognizable and full of energy for both casual fans and tennis enthusiasts.
 
-
+Though one of these visual identities was chosen to modify, we created two versions.
 
 #### How our team approached this design? 
 
@@ -25,7 +25,7 @@ As a team with a completely new challenge we have not embarked on before, we tho
 
 ---
 
-### Visuals
+### Visuals – version 1
 
 ### Before
 
