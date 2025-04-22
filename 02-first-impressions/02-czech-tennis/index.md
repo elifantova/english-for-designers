@@ -25,7 +25,8 @@ As a team with a completely new challenge we have not embarked on before, we tho
 
 ---
 
-### Visuals – version 1
+### Visuals – Version 1
+2024 | Visual identity | Class workshop | brush strokes 
 
 ### Before
 
@@ -69,5 +70,39 @@ Our Instagram.
 
 <img width="1433" alt="Screenshot 2025-04-22 at 10 28 40" src="https://github.com/user-attachments/assets/9bd3ebed-68d4-4cea-bab3-45779004a047" />
 
-
 A part of our merchandise, we decided to design merch, which had connotations to sports - thus the duffle bag. 
+
+
+
+
+---
+
+### Visuals – Version 2
+2024 | Visual identity | Class workshop | tennis racket
+
+### Before
+
+
+![image](https://github.com/user-attachments/assets/d21ab1f0-4425-4089-a32b-6112d9b51d83)
+
+
+### After
+
+
+<img width="941" alt="Screenshot 2025-04-22 at 10 28 49" src="https://github.com/user-attachments/assets/6b805dbc-506a-4709-86b6-ec7355a44f36" />
+
+
+This logo was a combination of typography and symbols. Mainly, the logo showcases an icon, which reminds one of a tennis racket and a ball. 
+
+---
+
+<img width="1420" alt="Screenshot 2025-04-22 at 10 29 03" src="https://github.com/user-attachments/assets/a4656642-0c49-46cb-8cac-3dfd23fb43a3" />
+
+A selection of some posters using this motive.
+
+---
+
+<img width="1434" alt="Screenshot 2025-04-22 at 10 29 36" src="https://github.com/user-attachments/assets/9a021243-d709-478f-944c-c58ddbcd6c9a" />
+
+
+A visual of our Instagram page with this identity.
