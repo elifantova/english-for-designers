@@ -70,7 +70,7 @@ Our Instagram.
 
 <img width="1433" alt="Screenshot 2025-04-22 at 10 28 40" src="https://github.com/user-attachments/assets/9bd3ebed-68d4-4cea-bab3-45779004a047" />
 
-A part of our merchandise, we decided to design merch, which had connotations to sports - thus the duffle bag. 
+As a part of our merchandise, we decided to design merch, which had connotations to the sport or overall to sports as a whole - thus the duffle bag. 
 
 
 
