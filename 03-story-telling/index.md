@@ -1,3 +1,9 @@
+[Presentation here](https://www.canva.com/design/DAGl8gVJkJo/92F_03hLYQAOkEiciXs7YA/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0)
+
+
+---
+
+
 ## Showing up anyway  
 
 This is not about a perfect design, or a big success, but about what happens when things don’t quite go your way.
