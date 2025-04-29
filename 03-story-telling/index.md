@@ -2,6 +2,18 @@
 
 
 ---
+# SHOWING UP ANYWAY
+
+## About me
+
+Hello, my name is Eliška Fantová and I am a passionate junior graphic designer focussing on book design, illustrations, and visual identities. My work prioritises both aesthetics and functionality, aiming to craft designs that effectively communicate the intended message. Whether I’m illustrating a children’s book or developing a unique visual identity for a brand, my goal is to breathe life into ideas through thoughtful and engaging design. I’m committed to creating visuals, which resonate and inspire, making every project a new opportunity to connect with others through creativity. As I continue to sharpen my craft, I’m excited about exploring new challenges and collaborating with those who share my passion for design, which evokes emotions. Do not hesitate to contact me!
+
+### My work before: 
+
+While this is the work I genuinely enjoy and aspire to pursue, the reality of being a designer often differs from personal ideals. It frequently involves creating work that may not align with your aesthetic preferences or that isn’t entirely your own.
+
+
+![showing up anyway](https://github.com/user-attachments/assets/39bdef00-d7d9-4216-9a02-01efaca58b39)
 
 
 ## Showing up anyway  
