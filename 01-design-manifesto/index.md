@@ -1,4 +1,5 @@
-# Design Manifesto 
+# [Design Manifesto]([graphic design manifesto.pdf](https://github.com/user-attachments/files/19958179/graphic.design.manifesto.pdf)
+
 
 - In graphic design, clarity for the audience should always be a primary objective. While the use of metaphors and creative elements can enhance a design, it is crucial that the core message remains clear and aligns with its intended function.
 
